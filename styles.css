@@ -8,6 +8,9 @@
 
 /* ----- HEADER -----*/
 
+
+
+
 .header {
     overflow:hidden;
     background-color: rgba(128, 128, 128, 0.493);
@@ -64,7 +67,7 @@ img {
     width: 50%;
     padding: 10px;
     margin-top: 2em;
-    height: 28em;
+    height: 40em;
     overflow-y: scroll;
     
     
@@ -77,7 +80,7 @@ img {
     width: 50%;
     padding: 10px;
     margin-top: 2em;
-    height: 28em;
+    height: 40em;
     overflow-y: scroll;
     
 }

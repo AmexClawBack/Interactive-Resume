@@ -72,6 +72,8 @@ img {
 
 
 /* ----- Columns for content -----*/
+
+
 .column1{
     float: left;
     width: 50%;
@@ -96,9 +98,20 @@ img {
     
 }
 
-a {
-    text-decoration: none;
-}
+
+    a {
+        font-style: italic;
+        text-decoration: none;
+        color: black;
+        transition: background-color .5s;
+        ;
+      }
+      
+      a:hover {
+          color: purple;
+      }
+      
+
 
 li1 {
     list-style: none;

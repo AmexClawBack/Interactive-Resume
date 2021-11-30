@@ -12,11 +12,12 @@
 html {
     width: 100%;
     height: 100vh;
-    background-color: #3a0ca3;
+    background-color: lavender;
 }
 
 body {
     overflow:auto;
+    opacity: .9;
     
 }
 
@@ -109,8 +110,12 @@ img {
       
       a:hover {
           color: purple;
+          text-decoration: underline;
+          font-size: 120%;
+          
       }
-      
+
+    
 
 
 li1 {
